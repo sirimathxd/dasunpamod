@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Python And HTML(CircleCI); 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: dasunpamod123@gmail.com
+- 📫 How to reach me: https://t.me/dasun_pamod
 ;
 
 **Languages and Tools:** 
