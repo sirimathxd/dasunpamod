@@ -19,10 +19,10 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [github](https://github.com/dasunpamod);
-- 🌱 I’m currently learning Python And HTML(CircleCI); 
+- 🌱 I’m currently learning Python And java; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: https://t.me/dasun_pamod
+- 📫 How to reach me: https://t.me/dasun_pamod dasunpamod123@gmail.com
 ;
 
 **Languages and Tools:** 
